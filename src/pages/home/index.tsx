@@ -58,10 +58,10 @@ export const Home = (): JSX.Element => {
               novas metodologias
             </Text>
             <Text type="body1" color="grey2">
-              Sou um dev front-end com domínio de Typescript, React e Node aprimoradas na
-              elaboração de 3 projetos. Em Express, SQLite, Python e Django para elaboração
-              de banco de dados e noção em C++ desenvolvida através da elaboração de 2
-              indicadores técnicos e 1 robôs de investimentos. Comunicativo, prestativo e
+              Sou um dev full stack com domínio de Typescript, React e Node aprimoradas na
+              elaboração de projetos. Em Express, SQLite, Python e Django para elaboração
+              de banco de dados e noção em C++ desenvolvida através da elaboração de 
+              indicadores técnicos e robôs de investimentos. Comunicativo, prestativo e
               proativo.
             </Text>
             <HeaderButtonsArea>
